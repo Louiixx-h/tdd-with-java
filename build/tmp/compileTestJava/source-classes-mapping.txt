@@ -1,0 +1,4 @@
+br/com/luishenrique/calculadora/CalculadoraTest.java
+ br.com.luishenrique.calculadora.CalculadoraTest
+br/com/luishenrique/bonus_funcionario/service/BonusServiceTest.java
+ br.com.luishenrique.bonus_funcionario.service.BonusServiceTest
