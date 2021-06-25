@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.luishenrique.bonus_funcionario.service.ReajustServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-25T00:30:25" hostname="DESKTOP-PRVTKKS" time="0.132">
+  <properties/>
+  <testcase name="reajusteDeveSer20PorCentoQuandoODsempenhoForOtimo()" classname="br.com.luishenrique.bonus_funcionario.service.ReajustServiceTest" time="0.112"/>
+  <testcase name="reajusteDeveSer10PorCentoQuandoODsempenhoForBom()" classname="br.com.luishenrique.bonus_funcionario.service.ReajustServiceTest" time="0.003"/>
+  <testcase name="reajusteDeveSer3PorCentoQuandoODsempenhoForADesejar()" classname="br.com.luishenrique.bonus_funcionario.service.ReajustServiceTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

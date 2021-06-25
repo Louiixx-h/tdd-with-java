@@ -1,6 +1,7 @@
 package br.com.luishenrique.bonus_funcionario.model;
 
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.time.LocalDate;
 
 public class Funcionario {
@@ -25,5 +26,9 @@ public class Funcionario {
 
     public BigDecimal getSalario() {
         return salario;
+    }
+
+    public void setReajusteSalario(BigDecimal novoSalario) {
+        this.salario = salario.add(novoSalario).setScale(2, RoundingMode.HALF_UP);
     }
 }

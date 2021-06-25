@@ -1,6 +1,13 @@
 br/com/luishenrique/calculadora/Calculadora.java
  br.com.luishenrique.calculadora.Calculadora
-br/com/luishenrique/bonus_funcionario/model/Funcionario.java
- br.com.luishenrique.bonus_funcionario.model.Funcionario
 br/com/luishenrique/bonus_funcionario/service/BonusService.java
  br.com.luishenrique.bonus_funcionario.service.BonusService
+br/com/luishenrique/bonus_funcionario/model/Funcionario.java
+ br.com.luishenrique.bonus_funcionario.model.Funcionario
+br/com/luishenrique/bonus_funcionario/model/Desempenho.java
+ br.com.luishenrique.bonus_funcionario.model.Desempenho
+ br.com.luishenrique.bonus_funcionario.model.Desempenho$1
+ br.com.luishenrique.bonus_funcionario.model.Desempenho$2
+ br.com.luishenrique.bonus_funcionario.model.Desempenho$3
+br/com/luishenrique/bonus_funcionario/service/ReajusteService.java
+ br.com.luishenrique.bonus_funcionario.service.ReajusteService
